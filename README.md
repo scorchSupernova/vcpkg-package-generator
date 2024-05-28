@@ -1,0 +1,1 @@
+# vcpkg-package-generator
